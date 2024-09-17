@@ -1,0 +1,30 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-tenis-dev-08372-authRole",
+      "UnauthRoleArn": "arn:aws:iam::404867132639:role/amplify-tenis-dev-08372-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::404867132639:role/amplify-tenis-dev-08372-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-tenis-dev-08372-deployment",
+      "UnauthRoleName": "amplify-tenis-dev-08372-unauthRole",
+      "StackName": "amplify-tenis-dev-08372",
+      "StackId": "arn:aws:cloudformation:us-east-1:404867132639:stack/amplify-tenis-dev-08372/44872460-64aa-11ef-9d9a-127547dbbf89",
+      "AmplifyAppId": "daa7qbou57f28"
+    },
+    "categories": {
+      "auth": {
+        "tenis13cb7526": {}
+      },
+      "function": {
+        "loginFunction": {
+          "deploymentBucketName": "amplify-tenis-dev-08372-deployment",
+          "s3Key": "amplify-builds/loginFunction-3848777962745739344c-build.zip",
+          "cognitoClientId": "us-east-1_EmjU2zxhG"
+        }
+      },
+      "api": {
+        "tenisapi": {}
+      }
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "name": "tenis",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script_home.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@aws-amplify/ui-react": "^6.2.0",
+    "aws-amplify": "^6.5.3"
+  }
+}

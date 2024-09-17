@@ -1,0 +1,9 @@
+{
+  "lambdaLayers": [],
+  "environmentVariableList": [
+    {
+      "cloudFormationParameterName": "cognitoClientId",
+      "environmentVariableName": "COGNITO_CLIENT_ID"
+    }
+  ]
+}
